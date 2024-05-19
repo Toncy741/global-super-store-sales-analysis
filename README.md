@@ -17,5 +17,7 @@ There are also bar charts presenting sales data by state, with California having
 
 $12.64M. The sales are broken down by segment, with Consumer having the highest sales at $650.75M, followed by Corporate at $382.47M, and Home Office at $230.86M.
 In terms of sales by region, North America (consisting of North and Canada regions) has the highest sales at $1.314B, followed by South at $1.61B, Central Asia at $752.83M, East at $678.78M, Southeast Asia at $884.42M, EMEA at $806.16M, Caribbean at $324.28M, Central at $282.23M, West at $735.46M, Oceania at $1.1B, and Africa at $783.77M.
-The sales are further categorized by markets, with APAC having the highest at $3.857B, followed by EU at $2.938B, US at $2.972B, LATAM at $2.165B, EMEA at $806.16M, Africa at $783.77M, and Canada at $66.93M. Copy
+The sales are further categorized by markets, with APAC having the highest at $3.857B, followed by EU at $2.938B, US at $2.972B, LATAM at $2.165B, EMEA at $806.16M, Africa at $783.77M, and Canada at $66.93M. 
+
+. Shipping costs are broken down by mode, with Standard Class costing the most at 6,14,627.66 and Same Day the least at 1,15,973.72, totaling 13,52,815.70. Sales data is presented by state and city, with California and New York City leading in sales at 2,88,520.43 and 2,56,368.16 respectively. The overall sales total 12,63,334.50.
 
