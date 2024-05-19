@@ -2,4 +2,4 @@
 The dashboards presents key sales metrics and visualization for a global superstore business
 
 
-(https://docs.google.com/spreadsheets/d/1Ez8RhO1rE2QikfdddOZ19eEZhN4r6eW7WHb9qB05T7E/edit?usp=drive_link)
+(https://drive.google.com/file/d/1pk9DYWXuI_Qwg5jEtaqtNAsro41H310W/view?usp=drive_link)
