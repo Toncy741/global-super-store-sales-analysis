@@ -6,65 +6,16 @@ The dashboards presents key sales metrics and visualization for a global superst
 (https://drive.google.com/file/d/1pk9DYWXuI_Qwg5jEtaqtNAsro41H310W/view?usp=drive_link)
 
 
-Key Metrics
-Sum of Sales: $12.64M
-Sum of Quantity: 178K
-Sum of Profit: $1.47M
-Count of Returned: 1173
-Sales by Segment
-Consumer: $6.51M (51.48%)
-Corporate: $3.82M (30.25%)
-Home Office: $2.31M (18.27%)
 
-Sales by Market
+ It displays various key metrics such as total sales, quantity sold, profit, and number of returns across different segments, markets, and regions. The data is presented through charts, maps, and summary numbers, allowing for visual analysis of sales performance. 
+ 
 
-US: $3.59M (28.36%)
-Canada: $2.94M (23.24%)
-APAC: $2.3M (18.17%)
-EU: $2.16M (17.12%)
-LATAM: $0.81M (6.38%)
-EMEA: $0.78M (6.2%)
-Africa: $0.8M (0.53%)
-Sales by Region (Map Visualization)
-
-The map visualization indicates sales distribution globally, with notable concentrations in:
-
-North America (particularly the US and Canada)
-Europe
-Asia-Pacific
-South America
-Africa
-
-Sum of Shipping Cost by Ship Mode:
-Standard Class: 45.43% ($614.63K)
-Second Class: 23.22% ($314.11K)
-First Class: 22.77% ($308.1K)
-Same Day: 8.57% ($115.97K)
+ a sales analysis dashboard that provides insights into the performance of a global super store business. It displays various visualizations and metrics related to sales, shipping costs, and geographical distribution.
+One chart shows the sum of shipping costs by ship mode, with Standard Class, Second Class, First Class, and Same Day being the available shipping options. Another chart displays sales by city, with New York City having the highest sales among the cities shown.
+There are also bar charts presenting sales data by state, with California having the highest sales followed by New York. The dashboard incorporates an artistic globe graphic, likely representing the global nature of the business operations.
 
 
-Top 10 Cities by Sales:
-New York City: Highest sales
-Los Angeles
-Manila
-Seattle
-San Francisco
-Philadelphia
-Sydney
-Jakarta
-London
-Mexico City
-
-
-Top 10 States by Sales:
-California: Highest sales
-New York
-National Capital
-Washington
-Pennsylvania
-New South Wales
-Jakarta
-Distrito Federal
-England
-Ontario
-
+$12.64M. The sales are broken down by segment, with Consumer having the highest sales at $650.75M, followed by Corporate at $382.47M, and Home Office at $230.86M.
+In terms of sales by region, North America (consisting of North and Canada regions) has the highest sales at $1.314B, followed by South at $1.61B, Central Asia at $752.83M, East at $678.78M, Southeast Asia at $884.42M, EMEA at $806.16M, Caribbean at $324.28M, Central at $282.23M, West at $735.46M, Oceania at $1.1B, and Africa at $783.77M.
+The sales are further categorized by markets, with APAC having the highest at $3.857B, followed by EU at $2.938B, US at $2.972B, LATAM at $2.165B, EMEA at $806.16M, Africa at $783.77M, and Canada at $66.93M. Copy
 
