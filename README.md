@@ -7,7 +7,7 @@ The dashboards presents key sales metrics and visualization for a global superst
 
 
 
- It displays various key metrics such as total sales, quantity sold, profit, and number of returns across different segments, markets, and regions. The data is presented through charts, maps, and summary numbers, allowing for visual analysis of sales performance. 
+ It displays various key metrics such as total sales, quantity sold, profit, and number of returns across different segments, markets, and regions. The data is presented through charts, maps, and summary numbers, 
  
 
  a sales analysis dashboard that provides insights into the performance of a global super store business. It displays various visualizations and metrics related to sales, shipping costs, and geographical distribution.
