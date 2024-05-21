@@ -5,7 +5,7 @@ The dashboards presents key sales metrics and visualization for a global superst
 (video representation)
 (https://drive.google.com/file/d/1pk9DYWXuI_Qwg5jEtaqtNAsro41H310W/view?usp=drive_link)
 
-The first  visualization (sales analysis) contains several visualizations presenting sales data for a global superstore.:
+The first  (sales analysis) contains several visualizations presenting sales data for a global superstore.:
 
 1. Sum of Sales: This metric shows the total sales value of $12.64M.
 
